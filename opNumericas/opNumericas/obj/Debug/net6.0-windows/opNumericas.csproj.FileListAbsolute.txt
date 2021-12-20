@@ -1,0 +1,17 @@
+C:\treinamento_avanade\opNumericas\opNumericas\bin\Debug\net6.0-windows\opNumericas.exe
+C:\treinamento_avanade\opNumericas\opNumericas\bin\Debug\net6.0-windows\opNumericas.deps.json
+C:\treinamento_avanade\opNumericas\opNumericas\bin\Debug\net6.0-windows\opNumericas.runtimeconfig.json
+C:\treinamento_avanade\opNumericas\opNumericas\bin\Debug\net6.0-windows\opNumericas.dll
+C:\treinamento_avanade\opNumericas\opNumericas\bin\Debug\net6.0-windows\ref\opNumericas.dll
+C:\treinamento_avanade\opNumericas\opNumericas\bin\Debug\net6.0-windows\opNumericas.pdb
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.csproj.AssemblyReference.cache
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.Form1.resources
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.csproj.GenerateResource.cache
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.AssemblyInfoInputs.cache
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.AssemblyInfo.cs
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.dll
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\ref\opNumericas.dll
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.pdb
+C:\treinamento_avanade\opNumericas\opNumericas\obj\Debug\net6.0-windows\opNumericas.genruntimeconfig.cache
