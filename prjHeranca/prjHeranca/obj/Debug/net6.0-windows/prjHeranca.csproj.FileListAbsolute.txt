@@ -1,0 +1,17 @@
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.csproj.AssemblyReference.cache
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.Form1.resources
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.csproj.GenerateResource.cache
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.AssemblyInfoInputs.cache
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.AssemblyInfo.cs
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\prjHeranca\prjHeranca\bin\Debug\net6.0-windows\prjHeranca.exe
+C:\treinamento_avanade\prjHeranca\prjHeranca\bin\Debug\net6.0-windows\prjHeranca.deps.json
+C:\treinamento_avanade\prjHeranca\prjHeranca\bin\Debug\net6.0-windows\prjHeranca.runtimeconfig.json
+C:\treinamento_avanade\prjHeranca\prjHeranca\bin\Debug\net6.0-windows\prjHeranca.dll
+C:\treinamento_avanade\prjHeranca\prjHeranca\bin\Debug\net6.0-windows\ref\prjHeranca.dll
+C:\treinamento_avanade\prjHeranca\prjHeranca\bin\Debug\net6.0-windows\prjHeranca.pdb
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.dll
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\ref\prjHeranca.dll
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.pdb
+C:\treinamento_avanade\prjHeranca\prjHeranca\obj\Debug\net6.0-windows\prjHeranca.genruntimeconfig.cache
